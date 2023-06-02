@@ -1,0 +1,12 @@
+C:\Users\6143440\Documents\Interfaces\obj\Debug\net7.0\Interfaces.csproj.AssemblyReference.cache
+C:\Users\6143440\Documents\Interfaces\obj\Debug\net7.0\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\6143440\Documents\Interfaces\obj\Debug\net7.0\Interfaces.AssemblyInfoInputs.cache
+C:\Users\6143440\Documents\Interfaces\obj\Debug\net7.0\Interfaces.AssemblyInfo.cs
+C:\Users\6143440\Documents\Interfaces\obj\Debug\net7.0\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\6143440\Documents\Interfaces\bin\Debug\net7.0\Interfaces.deps.json
+C:\Users\6143440\Documents\Interfaces\bin\Debug\net7.0\Interfaces.dll
+C:\Users\6143440\Documents\Interfaces\bin\Debug\net7.0\Interfaces.pdb
+C:\Users\6143440\Documents\Interfaces\obj\Debug\net7.0\Interfaces.dll
+C:\Users\6143440\Documents\Interfaces\obj\Debug\net7.0\refint\Interfaces.dll
+C:\Users\6143440\Documents\Interfaces\obj\Debug\net7.0\Interfaces.pdb
+C:\Users\6143440\Documents\Interfaces\obj\Debug\net7.0\ref\Interfaces.dll

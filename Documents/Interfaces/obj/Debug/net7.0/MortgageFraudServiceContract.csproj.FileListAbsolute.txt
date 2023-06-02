@@ -1,0 +1,15 @@
+C:\Users\6143440\Documents\Interfaces\bin\Debug\net7.0\MortgageFraudServiceContract.deps.json
+C:\Users\6143440\Documents\Interfaces\bin\Debug\net7.0\MortgageFraudServiceContract.dll
+C:\Users\6143440\Documents\Interfaces\bin\Debug\net7.0\MortgageFraudServiceContract.pdb
+C:\Users\6143440\Documents\Interfaces\obj\Debug\net7.0\MortgageFraudServiceContract.csproj.AssemblyReference.cache
+C:\Users\6143440\Documents\Interfaces\obj\Debug\net7.0\MortgageFraudServiceContract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\6143440\Documents\Interfaces\obj\Debug\net7.0\MortgageFraudServiceContract.AssemblyInfoInputs.cache
+C:\Users\6143440\Documents\Interfaces\obj\Debug\net7.0\MortgageFraudServiceContract.AssemblyInfo.cs
+C:\Users\6143440\Documents\Interfaces\obj\Debug\net7.0\MortgageFraudServiceContract.csproj.CoreCompileInputs.cache
+C:\Users\6143440\Documents\Interfaces\obj\Debug\net7.0\MortgageFraudServiceContract.dll
+C:\Users\6143440\Documents\Interfaces\obj\Debug\net7.0\refint\MortgageFraudServiceContract.dll
+C:\Users\6143440\Documents\Interfaces\obj\Debug\net7.0\MortgageFraudServiceContract.pdb
+C:\Users\6143440\Documents\Interfaces\obj\Debug\net7.0\ref\MortgageFraudServiceContract.dll
+C:\Users\6143440\Documents\Interfaces\bin\Debug\net7.0\MortgageFraudsDetectionModels.dll
+C:\Users\6143440\Documents\Interfaces\bin\Debug\net7.0\MortgageFraudsDetectionModels.pdb
+C:\Users\6143440\Documents\Interfaces\obj\Debug\net7.0\MortgageFraudServiceContract.csproj.CopyComplete

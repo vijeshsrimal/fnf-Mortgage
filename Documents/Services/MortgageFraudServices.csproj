@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Interfaces\MortgageFraudServiceContract.csproj" />
+    <ProjectReference Include="..\MortgageFraudContexts\MortgageFraudContexts.csproj" />
+    <ProjectReference Include="..\MortgageFraudsDetectionModels\MortgageFraudsDetectionModels.csproj" />
+  </ItemGroup>
+
+</Project>
